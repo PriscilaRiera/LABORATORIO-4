@@ -47,8 +47,15 @@ Se procede a recrear el circuito mostrado en el esquema siguiente en un simulado
 ## 4. Respuesta a interrogantes y cálculo del error.
 ### Resultados obtenidos
 
+![image](https://user-images.githubusercontent.com/105740772/176937129-9ac8bd00-c267-45f8-b981-3458f886de8a.png)
+
+![image](https://user-images.githubusercontent.com/105740772/176937187-2d73a45b-abb1-4e47-8bd0-ac0359407c24.png)
 
 ### Resolución de cálculos
+
+![image](https://user-images.githubusercontent.com/105740772/176934083-e9985db8-ae60-4117-a34a-577079a4b4fd.png)
+
+![image](https://user-images.githubusercontent.com/105740772/176936070-ab03116d-6fae-45fb-9c41-9eefd9694933.png)
 
 ### Cálculo del error
 
