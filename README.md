@@ -59,6 +59,8 @@ Se procede a recrear el circuito mostrado en el esquema siguiente en un simulado
 
 ### Cálculo del error
 
+![image](https://user-images.githubusercontent.com/105740772/176938731-48750ea1-cfa7-4ecf-a399-73d81fea2e9c.png)
+
 ### Comparación de mediciones
 - Al realizar el cálculo del error se pudo notar que hay un cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
 ## 5. Video
