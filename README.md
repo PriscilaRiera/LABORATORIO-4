@@ -57,12 +57,14 @@ Se procede a recrear el circuito mostrado en el esquema siguiente en un simulado
 ## 5. Video
 
 
-## 6. Concluiones
+## 6. Conclusiones
 - El teorema de Superposición nos indica que podemos simplificar un circuito al reemplazar las demás fuentes de voltaje por su resistencia interna cuando esta es ideal siendo esta una fuente de voltaje se reemplaza con una resistencia de valor 0 dejando en el diagrama como si fuera un cable  dando como resultado un circuito más sencillo de analizar.
 - Al igual que se lo hace con las fuente de voltaje las fuentes de amperaje se sustituyen por su resistencia interna la cual es infinita lo cual se traduce en el diagrama como si fuera un cable roto donde no pasa ninguna magnitud cuya finalidad es la misma, simplificar el circuito.
 
 ## 7. Bibliografía
 
 Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
+
 Alexander and M. N. Sadiku, Fundamentos de Circuitos eléctricos, 3rd ed. Ciudad de México, México: McGraw Hill, 2004.
+
 Pueyo, Héctor, Marco, Carlos y QUEIRO, Santiago; “Circuitos Eléctricos: Análisis de Modelos Circuitales3ra Ed. Tomo 1”; Editorial Alfaomega;2009.
