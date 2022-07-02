@@ -65,6 +65,7 @@ Se procede a recrear el circuito mostrado en el esquema siguiente en un simulado
 - Al realizar el cálculo del error se pudo notar que hay un cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
 ## 5. Video
 
+https://www.youtube.com/watch?v=gBxf4Z1O45U&ab_channel=LeninElizalde
 
 ## 6. Conclusiones
 - El teorema de Superposición nos indica que podemos simplificar un circuito al reemplazar las demás fuentes de voltaje por su resistencia interna cuando esta es ideal siendo esta una fuente de voltaje se reemplaza con una resistencia de valor 0 dejando en el diagrama como si fuera un cable  dando como resultado un circuito más sencillo de analizar.
